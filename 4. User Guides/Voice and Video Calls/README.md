@@ -6,6 +6,8 @@ Using WebRTC for video and voice calls
 
 A modern machine with camera and mic.  Expensive old Windows machines are not so good, and tricky to configure.  Cheap new Chromebooks (less than US$200) work perfectly.  Macs work out of the box.
 
+Note: Macs support WebRTC in Safari starting with macOS High Sierra. Before that will be released a plugin for Safari will be required. Alternativeley you can use a [browser that already supports WebRTC.](https://webrtc.org)
+
 The latest version of Chrome or Firefox.  Safari and Edge may work soon in the future - but FaceTime (owned by Apple) and Skype (owned by Microsoft) may be business reasons why things are delayed.
 
 Newer Android mobile phones and tablets (some less than US$50) will also work.
